@@ -1,0 +1,17 @@
+{
+  "name": "meal_calculator",
+  "version": "1.0.0",
+  "description": "A meal cost calculator",
+  "main": "meal_calculator.js",
+  "license": "MIT",
+  "author": {
+    "name": "Jason Strothmann"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-react": "^6.3.0"
+  }
+}
